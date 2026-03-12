@@ -45,7 +45,7 @@ The analysis highlights Netflix's growth in content production and its focus on 
 ## Visualizations
 
 ### Movies vs TV Shows
-![Movies vs TV Shows](images/movies_vs_tvshows.png)
+![Movies vs TV Shows](images/Movies_vs_Tvshows.png)
 
 ### Top Countries Producing Netflix Content
 ![Top Countries](images/top_countries.png)
