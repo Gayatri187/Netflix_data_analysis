@@ -41,3 +41,20 @@ The project includes visualizations such as:
 
 ## Conclusion
 The analysis highlights Netflix's growth in content production and its focus on mature, globally diverse entertainment.
+
+## Visualizations
+
+### Movies vs TV Shows
+![Movies vs TV Shows](images/movies_vs_tvshows.png)
+
+### Top Countries Producing Netflix Content
+![Top Countries](images/top_countries.png)
+
+### Content Growth Over Time
+![Content Growth](images/content_growth.png)
+
+### Genre Distribution
+![Genre Distribution](images/genre_distribution.png)
+
+### Ratings Distribution
+![Ratings Distribution](images/ratings_distribution.png)
